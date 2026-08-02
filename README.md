@@ -1,62 +1,82 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Pedro%20Henrique%20TP&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Produtor%20|%20Head%20de%20Tecnologia%20|%20Futuro%20Head%20de%20Mídias&descAlignY=55&descAlign=50" />
+<div align="center">
+
+# 🌌 PEDRO HENRIQUE TOZZI PAZIN — PEDRÃO DA NORTE
+### Arquiteto de Sistemas | Cientista de Dados & IA | Criador do Polvo Norte 🐙⚡
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop" alt="Cyberpunk Neon Hub" width="100%" style="border-radius: 12px; box-shadow: 0 0 25px #00FF66;" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Saturação_100%25-00FF66?style=for-the-badge&logo=probot&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stack-Next.js_|_Prisma_|_Turborepo-FF6600?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Localização-São_Paulo,_Zona_Norte-9900FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Universidade-PUC--SP_Data_Science-FF0055?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+## 🌈 O Espectro do Ecossistema Norte (State-of-the-Art Architecture)
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop" width="100%" style="border-radius: 8px;"/><br>
+      <b>🧠 Norte AI & Core</b><br>Fábrica de agentes autônomos, roteamento multi-LLM e memória vetorial.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=400&auto=format&fit=crop" width="100%" style="border-radius: 8px;"/><br>
+      <b>🏥 Norte Med & Life</b><br>SaaS B2B Multi-tenant para clínicas, telemetria e performance física.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=400&auto=format&fit=crop" width="100%" style="border-radius: 8px;"/><br>
+      <b>⚡ Norte Connect & Hub</b><br>Automações de WhatsApp, webhooks de leads e o Super-App central.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 Identidade Visual & O Banco de Imagens Oficiais do Ecossistema
+
+Para manter o padrão **Black Neon** misturado com gradientes cibernéticos de alta vibração, catalogamos as referências visuais que alimentam os front-ends, landing pages e portfólios do Império Norte:
 
 <div align="center">
-  <a href="https://github.com/PedroHenriqueTP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Construindo+o+Sistema+Operacional+do+Futuro+%E2%9A%A1;Mas+tamb%C3%A9m+fot%C3%B3grafo,+viajante+e+apaixonado+por+esportes;Ainda+tentando+escolher+qual+faculdade+seguir+%F0%9F%98%85" alt="Typing SVG" />
-  </a>
+  <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=300&auto=format&fit=crop" width="23%" style="border: 2px solid #00FF66; border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=300&auto=format&fit=crop" width="23%" style="border: 2px solid #FF6600; border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=300&auto=format&fit=crop" width="23%" style="border: 2px solid #9900FF; border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=300&auto=format&fit=crop" width="23%" style="border: 2px solid #FF0055; border-radius: 8px;" />
 </div>
+<p align="center"><em>[ Neon Matrix • Hardware Core • Server Clusters • Code Cyberpunk ]</em></p>
 
 ---
 
-### 👨‍💻 Sobre Mim - Fora do código também tem vida
+## 🚀 Quem é o Arquiteto?
 
-Sou de São Paulo, fundador do **Ecossistema Norte**, mas antes de ser dev, sou produtor, fotógrafo amador e eterno indeciso de faculdade.
-
-> Estudei ADS, passei por marketing, gestão e hoje vivo entre **Tecnologia, Comunicação e Negócios**. Ainda não escolhi UM curso só - e tá tudo bem. É essa mistura que me faz bom em conectar pontas.
-
-**O que me move quando não estou codando:**
-- 🏋️ **Esportes:** Academia é terapia. Futebol e corrida pra desestressar do deploy.
-- 📸 **Fotografia:** Olhar de produtor - amo capturar bastidor, viagem e arquitetura.
-- ✈️ **Viagens:** Cada viagem vira repertório pro próximo projeto.
-- 🎮 **Interatividade:** Sou obcecado por interface que responde, que tem micro-interação, glassmorphism, 3D e estado da arte.
-
-### 🚀 Bagagem Profissional - @agenciakeep
-
-Trabalho há anos na **Agência Keep** com produção e tecnologia. Lá fui de tudo um pouco, e isso virou meu diferencial:
-
-**Produtor | Head de Tecnologia e Infraestrutura Digital | Futuro Head de Mídias Digitais**
-
-Na Keep (14k+), aprendi na prática:
-- **Comunicação & Atendimento ao Público:** traduzir ideia do cliente em entrega real
-- **Gestão de Projetos:** orquestrar 18 frentes ao mesmo tempo (hoje é o Norte OS, antes eram jobs)
-- **Administração Financeira:** fechar planilha, precificar job e manter a agência no azul
-- **Infra Digital:** do WordPress/Elementor ao monorepo pnpm com MCP Loop offline
-
-> A Keep me ensinou que tecnologia sem processo não escala. Levo isso pro Norte.
-
-### 🌌 O que estou construindo agora
-
-**Norte OS** - O Sistema Operacional do Futuro.
-O que tem nos 18 módulos lá dentro? Bem, você vai ter que descobrir. 🐙
-
-### ⚙️ Stack & Arsenal
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js%2015-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%204.0-38BDF8?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/MCP%20Loop-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama%20Offline-black?style=for-the-badge" />
-</p>
-
-### 📫 Conecta comigo
-
-<p>
-  <a href="https://instagram.com/agenciakeep"><img src="https://img.shields.io/badge/@agenciakeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/PedroHenriqueTP"><img src="https://img.shields.io/badge/Meu%20Github-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+* **Origem:** São Paulo, SP (Raízes profundas na **Zona Norte** e exploração constante de **Perdizes**).
+* **Formação:** Graduando em **Ciência de Dados e Inteligência Artificial** na **Pontifícia Universidade Católica de São Paulo (PUC-SP)**.
+* **Stack Principal:** TypeScript, Next.js (App Router), NestJS, Prisma ORM, PostgreSQL, SQLite, Tailwind CSS, Zustand e automações avançadas com agentes no ecossistema Antigravity.
+* **Filosofia:** Aplicação prática de estoicismo e arquiteturas limpas para criar plataformas escaláveis, eliminando gordura de código e focando em alta performance de engenharia.
 
 ---
 
-> "A melhor interface é aquela que parece humana." - É nisso que eu acredito.
+## 🌌 O Polvo Norte (As 30 Vertentes do Monorepo)
+
+O ecossistema opera sob uma arquitetura híbrida blindada (`Turborepo` + `pnpm workspaces`), unificando dezenas de frentes sob um único banco central (*Single Source of Truth*):
+
+- **Hub & OS:** `Norte`, `NorteHub`, `NorteOS`
+- **Automação & IA:** `NorteAI`, `NorteConnect`, `NorteEngine`
+- **Saúde & Performance:** `NorteMed`, `NorteFit`, `NorteLife`
+- **Comércio & Pagamentos:** `NorteShop`, `NorteFood`, `NortePay`, `NorteAgency`
+- **Educação & Mídia:** `NorteLearn`, `NorteAcademy`, `NorteStudio`, `NorteMusic`, `NorteCast`
+- **Infraestrutura & Logística:** `NorteCloud`, `NorteSecurity`, `NorteAuto`, `NorteRent`, `NorteDelivery`, `NorteCarbon`
+
+---
+
+<p align="center">
+  <b>🐙 Conecte-se com o Desenvolvedor</b><br>
+  <a href="https://github.com/PedroHenriqueTP">GitHub: @PedroHenriqueTP</a> | 
+  <span>Localização: São Paulo, Brasil</span>
+</p>
+
+</div>
