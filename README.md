@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/PedroHenriqueTP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Construindo+o+Sistema+Operacional+do+Futuro+⚡;Mas+também+fotógrafo,+viajante+e+apaixonado+por+esportes;Ainda+tentando+escolher+qual+faculdade+seguir+%F0%9F%98%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Construindo+o+Sistema+Operacional+do+Futuro+%E2%9A%A1;Mas+tamb%C3%A9m+fot%C3%B3grafo,+viajante+e+apaixonado+por+esportes;Ainda+tentando+escolher+qual+faculdade+seguir+%F0%9F%98%85" alt="Typing SVG" />
   </a>
 </div>
 
