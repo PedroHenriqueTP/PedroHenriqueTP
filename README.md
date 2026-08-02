@@ -36,29 +36,26 @@ Na Keep (14k+), aprendi na prática:
 
 ### 🌌 O que estou construindo agora
 
-**Norte OS** - Monorepo de 18 produtos (`@norte/*`) em Next 15 + React 19 + Tailwind 4 + Prisma + MCP. É meu segundo cérebro + CRM + fábrica de conteúdo rodando em Ollama 100% offline.
-
-- `NorteShop`, `NorteAcademy`, `NorteJobs`, `NortePay`... tudo no mesmo ecossistema.
+**Norte OS** - O Sistema Operacional do Futuro.
+O que tem nos 18 módulos lá dentro? Bem, você vai ter que descobrir. 🐙
 
 ### ⚙️ Stack & Arsenal
 
-[Next.js](https://img.shields.io/badge/Next.js%2015-black?style=for-the-badge&logo=next.js)
-[React](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-[Tailwind](https://img.shields.io/badge/Tailwind%204.0-38BDF8?style=for-the-badge&logo=tailwindcss)
-[Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-[MCP](https://img.shields.io/badge/MCP%20Loop-7C3AED?style=for-the-badge)
-[Ollama](https://img.shields.io/badge/Ollama%20Offline-black?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2015-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%204.0-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/MCP%20Loop-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama%20Offline-black?style=for-the-badge" />
+</p>
 
 ### 📫 Conecta comigo
 
-<a href="https://instagram.com/agenciakeep"><img src="https://img.shields.io/badge/@agenciakeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/PedroHenriqueTP"><img src="https://img.shields.io/badge/Meu%20Github-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHenriqueTP&theme=radical" />
-  <br />
-  <img src="https://github.com/PedroHenriqueTP/PedroHenriqueTP/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<p>
+  <a href="https://instagram.com/agenciakeep"><img src="https://img.shields.io/badge/@agenciakeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/PedroHenriqueTP"><img src="https://img.shields.io/badge/Meu%20Github-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
