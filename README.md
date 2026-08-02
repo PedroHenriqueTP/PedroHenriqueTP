@@ -1,16 +1,24 @@
 <img width="100%" src="https://github.com/PedroHenriqueTP/PedroHenriqueTP/blob/main/liquid_glass_banner.webp?raw=true" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=300&size=18&pause=1500&color=9CA3AF&center=true&vCenter=true&width=800&lines=Zona+Norte+%2F+Perdizes+%E2%80%94+S%C3%A3o+Paulo;PUC-SP+%7C+Ci%C3%AAncia+de+Dados+%26+IA+%7C+Polvo+Norte;Churrasco%2C+trap%2C+basquete+e+mar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=300&size=18&pause=1500&color=9CA3AF&center=true&vCenter=true&width=800&lines=Isolina+Mazzei+%2F+Zona+Norte+%E2%80%94+S%C3%A3o+Paulo;Autodidata+Pol%C3%ADmata+%7C+Polvo+Norte;M%C3%BAsica%2C+Artes%2C+Economia+%26+IA" />
 </div>
 
 ---
 
 > Há uma jornada em curso, desenhada com a sensibilidade de quem busca compreender o mundo não apenas pela lógica fria dos dados, mas pela pulsação da vida real. 
 
-Nascido sob o ritmo vibrante de São Paulo, nas ruas e esquinas que abraçam a **Zona Norte e os caminhos de Perdizes**, há um olhar que equilibra a precisão exata da tecnologia com a suavidade das conexões humanas.
+Nascido e moldado na Zona Norte de São Paulo, com forte ancoragem afetiva e cultural nas ruas de **Isolina Mazzei**, há um olhar que equilibra a precisão exata da tecnologia com a suavidade das conexões humanas e artísticas. 
 
-É uma história moldada na busca constante por conhecimento — seja mergulhando nos universos complexos da ciência de dados e da inteligência artificial nas salas da **PUC-SP**, ou construindo com as próprias mãos arquiteturas de sistemas que dão vida a um ecossistema inteiro, o **Polvo Norte**. Mas o código e os algoritmos são apenas ferramentas de expressão para uma alma que respira o movimento e a coletividade.
+O alicerce escolar no **Colégio Jardim São Paulo** foi apenas o começo de uma exploração intelectual intensa. Uma trajetória não linear e multifacetada que cruzou os corredores do **Etapa** e **Poliedro**, para então experimentar universos tão plurais quanto Publicidade e Propaganda (PP), Música, Economia e Inteligência Artificial pelas salas do **Mackenzie**, **Belas Artes** e **PUC**. 
+
+<br>
+
+#### Síntese Polímata
+
+A força motriz não está em caber em uma única caixa, mas sim em transitar como um **autodidata polímata** por universos artísticos, criativos, econômicos e de *deep tech*. 
+
+O **Polvo Norte** (meu ecossistema) nasce dessa pluralidade: o código e os algoritmos são apenas ferramentas de expressão para uma alma que respira o movimento e a coletividade, onde a técnica e a sensibilidade caminham lado a lado.
 
 <br>
 
@@ -22,9 +30,9 @@ Há uma paixão profunda pelas coisas simples e genuínas que tornam a existênc
 
 <br>
 
-#### Filosofia
+#### Filosofia Integrada
 
-Movido por uma curiosidade genuína e desarmada, sem qualquer vestígio de prepotência, este espírito transita entre a profundidade dos estudos em *deep tech*, a aplicação de filosofias que lapidam a mente e o desejo sincero de construir ferramentas úteis, belas e que tragam sentido real para as pessoas. 
+Movido por uma curiosidade genuína e desarmada, sem qualquer vestígio de prepotência, este espírito aplica filosofias que lapidam a mente e carrega o desejo sincero de construir ferramentas úteis, belas e que tragam sentido real para as pessoas. 
 
 É um convite para olhar o mundo com abertura, sensibilidade e a certeza de que cada linha de código, cada projeto e cada instante de partilha carregam uma essência profundamente humana.
 
