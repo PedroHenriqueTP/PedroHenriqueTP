@@ -1,62 +1,61 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Pedro%20Henrique%20TP&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Produtor%20|%20Head%20de%20Tecnologia%20|%20Futuro%20Head%20de%20M%C3%ADdias&descAlignY=55&descAlign=50" />
+
 <div align="center">
-
-# ⚡ PEDRO HENRIQUE TOZZI PAZIN 
-### Arquiteto de Experiências | Visionário | Criador do Polvo Norte 🐙
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop" alt="Cyberpunk Neon Hub" width="100%" />
-</p>
-
----
-
-## 🍱 O UNIVERSO EM BENTO GRID
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop" width="100%" /><br>
-      <h3>🌌 O Ecossistema Norte</h3>
-      <p>Uma teia viva de ventures criativas e técnicas. 18 módulos interconectados pulsando em um único coração autônomo.</p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=400&auto=format&fit=crop" width="100%" /><br>
-      <h3>⚡ Estética Black Neon</h3>
-      <p>Alto contraste, estilo cyberpunk, cores vibrantes e imersão futurista. A forma importa tanto quanto a função.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=400&auto=format&fit=crop" width="100%" /><br>
-      <h3>🧠 Inteligência & Conexão</h3>
-      <p>Fundindo as raízes urbanas de São Paulo (Zona Norte) com a arte invisível da Ciência de Dados e da IA.</p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=400&auto=format&fit=crop" width="100%" /><br>
-      <h3>🔥 Lifestyle & Movimento</h3>
-      <p>Movido a trap, funk paulista, resenhas memoráveis com churrasco e exploração metropolitana sem limites.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎨 GALERIA VISUAL (NEON CULTURE)
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=300&auto=format&fit=crop" width="23%" />
-  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=300&auto=format&fit=crop" width="23%" />
-  <img src="https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=300&auto=format&fit=crop" width="23%" />
-  <img src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?q=80&w=300&auto=format&fit=crop" width="23%" />
-</p>
-
-<p align="center"><em>"A vida não é uma linha reta, e a arte também não."</em></p>
-
----
-
-<p align="center">
   <a href="https://github.com/PedroHenriqueTP">
-    <img src="https://img.shields.io/badge/Conecte--se_com_o_Mestre-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Construindo+o+Sistema+Operacional+do+Futuro+%E2%9A%A1;Mas+tamb%C3%A9m+fot%C3%B3grafo,+viajante+e+apaixonado+por+esportes;Ainda+tentando+escolher+qual+faculdade+seguir+%F0%9F%98%85" alt="Typing SVG" />
   </a>
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim - Fora do código também tem vida
+
+Sou de São Paulo, fundador do **Ecossistema Norte**, mas antes de ser dev, sou produtor, fotógrafo amador e eterno indeciso de faculdade. 
+
+**O que me move quando não estou codando:**
+- 🏋️ **Esportes:** Academia como terapia. Futebol e corrida pra desestressar do deploy.
+- 📸 **Fotografia:** Olhar de produtor, amo capturar bastidor, viagem e arquitetura.
+- ✈️ **Viagens:** Cada viagem vira repertório pro próximo projeto.
+- 🎮 **Interatividade:** Obcecado por interface que responde, glassmorphism, micro-interação e 3D.
+
+### 🚀 Bagagem - @agenciakeep (14k)
+
+**Produtor | Head de Tecnologia e Infraestrutura Digital | Futuro Head de Mídias Digitais**
+
+Anos de Keep me ensinaram na prática:
+- **Comunicação e atendimento ao público:** traduzindo ideia de cliente em entrega real.
+- **Gestão de Projetos:** orquestrando 18 frentes simultâneas.
+- **Administração Financeira:** fechar planilha, precificar job e manter tudo no azul.
+- **Infra Digital:** De WordPress/Elementor a um monorepo pnpm com MCP Loop offline.
+
+<a href="https://instagram.com/agenciakeep"><img src="https://img.shields.io/badge/@agenciakeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+### 🌌 O que estou construindo
+
+**Norte OS & Norte Social-Engine**
+Esqueça painéis engessados. Estou forjando o sistema operacional central que conecta 18 módulos B2B em um único ecossistema autônomo, unindo gestão, infraestrutura e o lado social através do nosso motor de inteligência artificial descentralizado. 
+
+---
+
+### ⚙️ Stack & Arsenal
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2015-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%204.0-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/MCP%20Loop-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama%20Offline-black?style=for-the-badge" />
 </p>
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHenriqueTP&theme=radical" />
+  <br />
+  <img src="https://raw.githubusercontent.com/PedroHenriqueTP/PedroHenriqueTP/output/github-contribution-grid-snake.svg" />
 </div>
+
+---
+
+<p align="center"><em>"A melhor interface é aquela que parece humana."</em></p>
