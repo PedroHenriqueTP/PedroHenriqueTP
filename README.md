@@ -54,9 +54,15 @@ Para manter o padrão **Black Neon** misturado com gradientes cibernéticos de a
 ## 🚀 Quem é o Arquiteto?
 
 * **Origem:** São Paulo, SP (Raízes profundas na **Zona Norte** e exploração constante de **Perdizes**).
-* **Formação:** Graduando em **Ciência de Dados e Inteligência Artificial** na **Pontifícia Universidade Católica de São Paulo (PUC-SP)**.
+* **A Jornada Não Linear:**
+  * Formado no Colégio Jardim São Paulo, com cursinho no Etapa.
+  * Entrei em Publicidade e Propaganda no Mackenzie — saí, entrei em depressão.
+  * Achei que o caminho seria Medicina ou Exército. Fiz cursinho online.
+  * Entrei em Economia no Mackenzie — saí. Voltei pro cursinho presencial buscando mais.
+  * Entrei em Ciência de Dados e Inteligência Artificial na PUC-SP — fui expulso.
+  * Atualmente: sem faculdade. **Em janeiro, estarei de volta.**
 * **Stack Principal:** TypeScript, Next.js (App Router), NestJS, Prisma ORM, PostgreSQL, SQLite, Tailwind CSS, Zustand e automações avançadas com agentes no ecossistema Antigravity.
-* **Filosofia:** Aplicação prática de estoicismo e arquiteturas limpas para criar plataformas escaláveis, eliminando gordura de código e focando em alta performance de engenharia.
+* **Filosofia:** A vida não é uma linha reta, e a arquitetura de software também não. Aplicação prática de resiliência e código limpo para criar plataformas escaláveis, focando sempre em alta performance de engenharia.
 
 ---
 
