@@ -1,36 +1,69 @@
-﻿<div align="center" style="position: relative; overflow: hidden; background-color: #020202; color: #fff; font-family: sans-serif; border-radius: 32px 8px 32px 8px; padding: 40px;">
-  
-  <!-- Luzes de Fundo (Blobs) -->
-  <div style="position: absolute; top: -100px; left: -100px; width: 400px; height: 400px; background: rgba(124, 58, 237, 0.4); filter: blur(80px); mix-blend-mode: screen; border-radius: 50%; pointer-events: none;"></div>
-  <div style="position: absolute; bottom: -100px; right: -100px; width: 500px; height: 500px; background: rgba(0, 255, 102, 0.15); filter: blur(100px); mix-blend-mode: screen; border-radius: 50%; pointer-events: none;"></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Pedro%20Henrique%20TP&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Produtor%20|%20Head%20de%20Tecnologia%20|%20Futuro%20Head%20de%20M%C3%ADdias&descAlignY=55&descAlign=50" />
 
-  <!-- Banner Hero (Liquid Glass) -->
-  <table width="100%" height="400" style="background-image: url('https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop'); background-size: cover; background-position: center; border-radius: 32px 8px 32px 8px; box-shadow: 0 40px 80px rgba(0,0,0,0.5); overflow: hidden; border: 1px solid rgba(255,255,255,0.1);">
-    <tr>
-      <td align="center" valign="middle" style="background: rgba(0,0,0,0.3); backdrop-filter: blur(5px);">
-        <h1 style="color: white; text-shadow: 0 20px 40px rgba(0,0,0,0.8); font-size: 56px; font-weight: 300; margin-bottom: 0;">PEDRO <strong style="font-weight: 800;">HENRIQUE TP</strong></h1>
-        <p style="color: #e0e0e0; text-shadow: 0 10px 20px rgba(0,0,0,0.8); font-size: 20px; font-weight: 300;">Arquiteto de Experiências Fluídas & Criador do Norte OS</p>
-      </td>
-    </tr>
-  </table>
-  
-  <br><br>
-
-  <!-- Card Orgânico -->
-  <div style="background: rgba(255,255,255,0.03); padding: 40px; border-radius: 8px 32px 8px 32px; border: 1px solid rgba(255,255,255,0.05); box-shadow: 0 40px 80px rgba(124,58,237,0.1); text-align: left; position: relative;">
-    <h2 style="color: white; font-weight: 300; margin-top: 0;">Liquid <strong style="font-weight: 800;">Architecture</strong></h2>
-    <p style="color: #999; line-height: 1.8; font-size: 16px;">
-      O Bento Grid morreu. Interfaces modernas respiram. São orgânicas, assimétricas e possuem luz volumétrica real.<br><br>
-      Sou de São Paulo (Zona Norte), produtor e obcecado por interatividade e micro-animações. A vida não é uma linha reta, e a arquitetura de software também não.
-    </p>
-  </div>
-  
-  <br><br>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js%2015-Liquid-black?style=for-the-badge&logo=next.js" />
-    <img src="https://img.shields.io/badge/Framer%20Motion-Motion-000?style=for-the-badge&logo=framer" />
-    <img src="https://img.shields.io/badge/Tailwind%204.0-Glass-38BDF8?style=for-the-badge&logo=tailwindcss" />
-  </p>
-
+<div align="center">
+  <a href="https://github.com/PedroHenriqueTP">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Construindo+o+Sistema+Operacional+do+Futuro+%E2%9A%A1;Mas+tamb%C3%A9m+fot%C3%B3grafo,+viajante+e+apaixonado+por+esportes;Ainda+tentando+escolher+qual+faculdade+seguir+%F0%9F%98%85" alt="Typing SVG" />
+  </a>
 </div>
+
+---
+
+### 👨‍💻 Sobre Mim - Fora do código também tem vida
+
+Sou de São Paulo, fundador do **Ecossistema Norte**, mas antes de ser dev, sou produtor e fotógrafo amador.
+
+**A Jornada Não Linear:**
+- Formado no Colégio Jardim São Paulo, cursinho no Etapa.
+- Entrei em Publicidade no Mackenzie — saí, entrei em depressão.
+- Pensei em Medicina ou Exército, fiz cursinho online.
+- Fui pra Economia no Mackenzie — saí.
+- Entrei em Ciência de Dados e Inteligência Artificial na PUC-SP — fui expulso.
+- **Atualmente:** Sem faculdade, mas em Janeiro estarei de volta! A vida não é uma linha reta, e a arquitetura de software também não.
+
+**O que me move quando não estou codando:**
+- 🏋️ **Esportes:** Academia como terapia. Futebol e corrida pra desestressar do deploy.
+- 📸 **Fotografia:** Olhar de produtor, amo capturar bastidor, viagem e arquitetura.
+- ✈️ **Viagens:** Cada viagem vira repertório pro próximo projeto.
+- 🎮 **Interatividade:** Obcecado por interface que responde, glassmorphism, micro-interação e 3D.
+
+### 🚀 Bagagem - @agenciakeep (14k)
+
+**Produtor | Head de Tecnologia e Infraestrutura Digital | Futuro Head de Mídias Digitais**
+
+Anos de Keep me ensinaram na prática:
+- **Comunicação e atendimento:** traduzindo ideia de cliente em entrega real.
+- **Gestão de Projetos:** orquestrando 18 frentes simultâneas.
+- **Administração Financeira:** fechar planilha, precificar job e manter tudo no azul.
+- **Infra Digital:** De WordPress/Elementor a um monorepo pnpm com MCP Loop offline.
+
+<a href="https://instagram.com/agenciakeep"><img src="https://img.shields.io/badge/@agenciakeep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+### 🌌 O que estou construindo
+
+**Norte OS & Norte Social-Engine**
+Esqueça painéis engessados. Estou forjando o sistema operacional central que conecta 18 módulos B2B em um único ecossistema autônomo, unindo gestão, infraestrutura e o lado social através do nosso motor de inteligência artificial descentralizado. 
+
+---
+
+### ⚙️ Stack & Arsenal
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2015-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%204.0-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/MCP%20Loop-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama%20Offline-black?style=for-the-badge" />
+</p>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHenriqueTP&theme=radical" />
+  <br />
+  <img src="https://raw.githubusercontent.com/PedroHenriqueTP/PedroHenriqueTP/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<p align="center"><em>"A melhor interface é aquela que parece humana."</em></p>
