@@ -10,21 +10,15 @@
 
 ### 👨‍💻 Sobre Mim - Fora do código também tem vida
 
-Sou de São Paulo, fundador do **Ecossistema Norte**, mas antes de ser dev, sou produtor e fotógrafo amador.
+Há uma jornada em curso, desenhada com a sensibilidade de quem busca compreender o mundo não apenas pela lógica fria dos dados, mas pela pulsação da vida real. Nascido sob o ritmo vibrante de São Paulo, nas ruas e esquinas que abraçam a Zona Norte e os caminhos de Perdizes, há um olhar que equilibra a precisão exata da tecnologia com a suavidade das conexões humanas.
 
-**A Jornada Não Linear:**
-- Formado no Colégio Jardim São Paulo, cursinho no Etapa.
-- Entrei em Publicidade no Mackenzie — saí, entrei em depressão.
-- Pensei em Medicina ou Exército, fiz cursinho online.
-- Fui pra Economia no Mackenzie — saí.
-- Entrei em Ciência de Dados e Inteligência Artificial na PUC-SP — fui expulso.
-- **Atualmente:** Sem faculdade, mas em Janeiro estarei de volta! A vida não é uma linha reta, e a arquitetura de software também não.
+É uma história moldada na busca constante por conhecimento — seja mergulhando nos universos complexos da ciência de dados e da inteligência artificial nas salas da PUC-SP, ou construindo com as próprias mãos arquiteturas de sistemas que dão vida a um ecossistema inteiro, o Polvo Norte. Mas o código e os algoritmos são apenas ferramentas de expressão para uma alma que respira o movimento e a coletividade.
 
-**O que me move quando não estou codando:**
-- 🏋️ **Esportes:** Academia como terapia. Futebol e corrida pra desestressar do deploy.
-- 📸 **Fotografia:** Olhar de produtor, amo capturar bastidor, viagem e arquitetura.
-- ✈️ **Viagens:** Cada viagem vira repertório pro próximo projeto.
-- 🎮 **Interatividade:** Obcecado por interface que responde, glassmorphism, micro-interação e 3D.
+Há uma paixão profunda pelas coisas simples e genuínas que tornam a existência calorosa: o ritual de acender um bom churrasco para partilhar com quem se ama, o som dos beats de trap, funk e boombap que embalam a mente criativa, e a energia inconfundível de grandes eventos, festivais e das quadras de basquete ao ar livre onde o corpo encontra o seu ritmo. É uma vivência que se estende ao carinho sincero pelos animais, à exploração curiosa das ruas da metrópole e às viagens rumo ao litoral, buscando o equilíbrio entre o mar e o asfalto.
+
+Movido por uma curiosidade genuína e desarmada, sem qualquer vestígio de prepotência, este espírito transita entre a profundidade dos estudos em *deep tech*, a aplicação de filosofias que lapidam a mente e o desejo sincero de construir ferramentas úteis, belas e que tragam sentido real para as pessoas. É um convite para olhar o mundo com abertura, sensibilidade e a certeza de que cada linha de código, cada projeto e cada instante de partilha carregam uma essência profundamente humana.
+
+---
 
 ### 🚀 Bagagem - @agenciakeep (14k)
 
