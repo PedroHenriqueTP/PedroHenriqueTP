@@ -1,22 +1,13 @@
-# 🌊 Pedro Henrique
+# Oi, eu sou o Pedro 👋
 
-> *"A tecnologia é apenas o reflexo da nossa vibração interior."*
+Eu sempre achei que programar era só sobre computadores, mas com o tempo percebi que é sobre pessoas.
 
-Olá, eu sou o Pedro.
+Para mim, a tecnologia tem que ser leve, acolhedora e fazer a gente se sentir bem. Eu não ligo tanto para qual linguagem de programação ou framework está na moda; eu me importo de verdade com a sensação que a gente entrega no final. 
 
-Acredito que construir sistemas vai muito além de linhas de código. Trata-se de empatia, sensibilidade e de entender como as pessoas se conectam de verdade com o que criamos. Minha jornada na tecnologia é movida pela criatividade, pelo design humano e pela constante busca por equilíbrio.
+Gosto muito de conversar, de entender as emoções por trás de cada projeto e de criar ambientes onde todo mundo se sinta ouvido e respeitado. Acredito que a empatia e a paciência resolvem muito mais problemas do que qualquer ferramenta técnica.
 
-## 🌿 O Que Me Move
+Quando não estou no computador, estou sempre buscando coisas que me tragam paz e inspiração, tentando manter a mente tranquila e a energia boa para lidar com os desafios do dia a dia. 
 
-- **Design com Alma:** Softwares não precisam ser frios ou puramente industriais. Busco infundir leveza e ludicidade em cada projeto, garantindo que a experiência do usuário seja orgânica e acolhedora.
-- **Conexão Humana (Soft Skills):** Construir um ecossistema saudável não significa apenas otimizar infraestruturas, mas nutrir relações. Acredito na empatia, na comunicação fluida e no crescimento coletivo.
-- **Criatividade Fluida:** A tecnologia é a minha tela. Uso o código para expressar sentimentos e trazer soluções lúdicas para o dia a dia, sempre com um olhar sensível.
-- **Sintonia e Vibração:** O melhor código nasce quando a mente está em paz. A busca pela vibração interior dita o meu ritmo; se a energia está alinhada, a criação flui naturalmente.
+Se você quiser bater um papo sobre criar coisas com alma, trocar ideias sobre a vida, ou só falar sobre como se sentir mais em paz no meio de toda essa pressa do mundo digital... me chama. Vai ser um prazer te conhecer. ✨
 
-Para mim, arquitetar sistemas é uma forma de meditar e entender o mundo. Vamos criar algo inspirador juntos?
-
----
-
-<p align="center">
-  <b>📍 São Paulo / SP - Brasil</b>
-</p>
+📍 *São Paulo / SP*
