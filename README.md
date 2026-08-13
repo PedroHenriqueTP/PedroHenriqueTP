@@ -5,7 +5,12 @@
 
 Sou movido por tecnologia, conexão humana e pelo desejo de criar coisas incríveis. Sou imensamente grato pela minha jornada — cada passo tem sido uma história feliz e cheia de bênçãos de Deus! 🙏
 
-Minha cabeça é uma mistura eclética que me inspira todos os dias. Sou completamente apaixonado por 🎭 **Arte & Cultura Pop** (amo jogos, filmes, séries e histórias fantásticas) e fascinado por 🧠 **Psicologia & Misticismo** — tudo o que envolve a mente, o oculto e a alma. Também não vivo sem uma boa 📚 **Literatura** para expandir a criatividade. E, no meio de tudo isso, carrego um grande sonho no peito: 🎓 **me formar e conquistar meu tão sonhado diploma!**
+Minha cabeça é uma mistura eclética que me inspira todos os dias:
+
+- 🎭 **Arte & Cultura Pop:** Jogos, filmes, séries e histórias fantásticas.
+- 🧠 **Psicologia & Misticismo:** Tudo o que envolve a mente, o oculto e a alma.
+- 📚 **Literatura:** Histórias incríveis para expandir a criatividade.
+- 🎓 **O Grande Sonho:** Me formar e conquistar meu tão sonhado diploma!
 
 ---
 
