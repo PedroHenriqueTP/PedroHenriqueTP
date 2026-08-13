@@ -9,7 +9,7 @@ Minha cabeça é uma mistura eclética que me inspira todos os dias:
 
 - 🎭 **Arte & Cultura Pop:** Jogos, filmes, séries e histórias fantásticas.
 - 🧠 **Psicologia:** O estudo do comportamento e tudo o que envolve a mente humana.
-- 🏃‍♂️ **Esportes & Movimento:** Basquete, musculação, tênis, futebol, rugby, correr e nadar.
+- 🏃‍♂️ **Esportes & Movimento:** Basquete, musculação, tênis, futebol, rugby, handball, vôlei, correr e nadar.
 - 🏎️ **Aventura & Vida ao Ar Livre:** Dirigir carros e motos, andar de barco e aproveitar a praia.
 - 📚 **Literatura:** Histórias incríveis para expandir a criatividade.
 - 🎓 **O Grande Sonho:** Me formar e conquistar meu tão sonhado diploma!
