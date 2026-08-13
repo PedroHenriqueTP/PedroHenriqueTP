@@ -13,8 +13,8 @@ Nos últimos 10 anos, venho travando uma luta silenciosa e diária contra a depr
 Como **Engenheiro Fullstack Sênior e Arquiteto de Sistemas (Agência Keep, 2018 - Presente)**, eu viabilizo visões de negócio transformando-as em produtos digitais de alta escala. 
 
 Construí minha trajetória focando em quatro pilares inegociáveis:
-- **Engenharia de Software (SaaS Sênior):** Desenvolvimento de ponta a ponta de ecossistemas multi-tenant isolados, CRMs customizados e módulos de automação financeira.
-- **I.A. & Agentes Autônomos:** Modelagem e integração de AI Agents e workflows inteligentes para automação de processos, usando I.A. generativa para refatoração e aceleração de testes lógicos.
+- **Engenharia de Software de Alta Escala:** Desenvolvimento de ponta a ponta de ecossistemas isolados corporativos, painéis customizados e módulos de automação financeira. O que roda por trás do capô? Deixe que descubram.
+- **Sistemas Autônomos & Workflows:** Modelagem e integração de motores de autonomia sistêmica e pipelines inteligentes para tomada de decisão não-supervisionada e otimização de processos críticos.
 - **Direção Criativa & High-Contrast UI:** Concepção estética focada na identidade visual Cyberpunk/Neon. Acredito em um design com alma, que conecta a experiência visual ao posicionamento de mercado.
 - **Comunicação Omnichannel & Sourcing:** Negociação B2B, gestão ágil de canais integrados e procurement tático. Acredito que a oratória e a comunicação resolveem muito mais do que qualquer ferramenta.
 
