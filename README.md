@@ -10,7 +10,7 @@
 
 Eu sempre achei que programar era só sobre computadores, mas a vida me ensinou que a tecnologia é, acima de tudo, sobre conexão humana e propósito.
 
-Sou imensamente grato pela jornada que construí até aqui. Cada passo tem sido uma história feliz e cheia de bênçãos de Deus. Por muito tempo, embora eu seja **novo no mundo do código em si**, a tecnologia se apresentou como um presente: uma tela em branco onde encontrei um espaço incrível para aprender, evoluir e construir ecossistemas com muita alegria e gratidão no coração.
+Sou imensamente grato pela jornada que construí até aqui. Cada passo tem sido uma história feliz e cheia de bênçãos de Deus. Embora eu seja **novo no mundo do código em si**, a tecnologia se apresentou como um presente: a principal **ferramenta de manifestação das minhas ideias, sentimentos e sonhos**. É uma tela em branco onde encontro espaço para aprender, evoluir e construir ecossistemas com muita alegria e gratidão no coração.
 
 ## 🎙️ Minha Verdadeira Base: 12 Anos de Rua e Comunicação
 
