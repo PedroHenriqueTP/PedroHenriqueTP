@@ -1,14 +1,14 @@
 # Oi, eu sou o Pedro 👋
 
-
-
 > *"Antes de entender de máquinas, eu precisei entender de pessoas."*
 
 Eu sempre achei que programar era só sobre computadores, mas a vida me ensinou que a tecnologia é, acima de tudo, sobre conexão humana e propósito.
 
-Sou imensamente grato pela jornada que construí até aqui. Cada passo tem sido uma história feliz, cheia de bênçãos de Deus e erguida com **muito suor e dedicação**. Chegar até aqui exigiu horas intermináveis de estudo, noites em claro e um trabalho incansável. Mas aprendi que o esforço não precisa ser frio ou solitário. Pelo contrário: ele ganha um brilho especial e cativante quando é feito com amor, acolhimento e o desejo genuíno de criar algo que impacte a vida das pessoas. 
+Sou imensamente grato pela jornada que construí até aqui. Cada passo tem sido uma história feliz, cheia de bênçãos de Deus e erguida com **muito suor e dedicação**. Sou movido por uma **paixão imensa por cultura, arte, psicologia, filmes, séries e games**. Tudo isso molda o jeito que eu enxergo o mundo. Acredito que o código não é frio; ele é uma arte viva, alimentada pelas nossas referências e vivências.
 
-Embora eu seja **novo no mundo do código em si**, a tecnologia se apresentou como um presente: a principal **ferramenta de manifestação das minhas ideias, sentimentos e sonhos**. É uma tela em branco onde encontro espaço para trabalhar duro, evoluir e construir ecossistemas com muita alegria e gratidão no coração.
+Passei por **diversas, amplas e múltiplas experiências** ao longo da vida, que me forjaram e me trouxeram até aqui. Carregar essa bagagem eclética me fez entender que o esforço ganha um brilho especial e cativante quando é feito com amor, acolhimento e o desejo genuíno de criar algo que toque o coração das pessoas.
+
+Embora eu seja **novo no mundo do código em si**, a tecnologia se apresentou como um presente: a principal **ferramenta de manifestação das minhas ideias, sentimentos e sonhos**. É uma tela em branco onde encontro espaço para trabalhar duro, evoluir e construir ecossistemas. E, no meio de toda essa jornada, eu carrego comigo o grande sonho de **me formar e conquistar meu diploma**, materializando anos de pura dedicação.
 
 ## 🎙️ Minha Verdadeira Base: 12 Anos de Rua e Comunicação
 
@@ -22,11 +22,11 @@ Construí minha vida profissional com **12 anos de atuação feliz e incansável
 
 ## 🌿 O Código como Extensão da Vida
 
-Hoje, eu trago toda essa bagagem de marketing, trabalho duro, comunicação e *soft skills* para a engenharia. Construo interfaces e sistemas aplicando a mesma sensibilidade que usava para criar campanhas apaixonantes. O que importa, no fim do dia, é a sensação de acolhimento, a leveza e a facilidade que a gente entrega para o usuário.
+Hoje, eu trago toda essa bagagem plural — o marketing, a psicologia, a arte e o trabalho duro — para a engenharia. Construo interfaces e sistemas aplicando a mesma sensibilidade que usava para criar campanhas apaixonantes. O que importa, no fim do dia, é a sensação de acolhimento, a leveza e a facilidade que a gente entrega para o usuário.
 
-Quando não estou mergulhado em um projeto, estou agradecendo pelas coisas simples, buscando inspiração na criação divina e vivendo focado em espalhar coisas boas e ser genuinamente feliz.
+Quando não estou mergulhado em um projeto, estou agradecendo pelas coisas simples, buscando inspiração na criação divina, aproveitando uma boa série, jogando e vivendo focado em espalhar coisas boas e ser genuinamente feliz.
 
-Se você quiser bater um papo sobre transição de carreira, comunicação, os bastidores de um trabalho feito com alma, ou só falar sobre as bênçãos da vida... me chama. Vai ser um prazer enorme te conhecer. ✨
+Se você quiser bater um papo sobre cultura pop, arte, psicologia, transição de carreira, ou só falar sobre as bênçãos da vida... me chama. Vai ser um prazer enorme te conhecer. ✨
 
 ---
 
