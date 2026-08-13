@@ -1,4 +1,4 @@
-# Oi, eu sou o Pedro 👋
+# Oi, eu sou o Pedrão! ✨
 
 > *"Antes de entender de máquinas, eu precisei entender de pessoas."*
 
