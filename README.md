@@ -26,7 +26,7 @@ Hoje, eu trago toda essa bagagem plural — o marketing, a psicologia, a arte e 
 
 Quando não estou mergulhado em um projeto, estou agradecendo pelas coisas simples, buscando inspiração na criação divina, aproveitando uma boa série, jogando e vivendo focado em espalhar coisas boas e ser genuinamente feliz.
 
-Se você quiser bater um papo sobre cultura pop, arte, psicologia, transição de carreira, ou só falar sobre as bênçãos da vida... me chama. Vai ser um prazer enorme te conhecer. ✨
+Se você quiser bater um papo sobre cultura pop, arte, psicologia, criatividade, ou só falar sobre as bênçãos da vida... me chama. Vai ser um prazer enorme te conhecer. ✨
 
 ---
 
