@@ -1,7 +1,7 @@
 # Oi, eu sou o Pedrão!
 ❤️🧡💛💚💙💜
 
-> *"Antes de entender de máquinas, eu precisei entender de pessoas."*
+> *"É a Norte!"* 🧭
 
 Sou movido por tecnologia, conexão humana e pelo desejo de criar coisas incríveis. Sou imensamente grato pela minha jornada — cada passo tem sido uma história feliz e cheia de bênçãos de Deus! 🙏
 
