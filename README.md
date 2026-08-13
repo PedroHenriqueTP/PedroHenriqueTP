@@ -8,7 +8,9 @@ Sou movido por tecnologia, conexão humana e pelo desejo de criar coisas incrív
 Minha cabeça é uma mistura eclética que me inspira todos os dias:
 
 - 🎭 **Arte & Cultura Pop:** Jogos, filmes, séries e histórias fantásticas.
-- 🧠 **Psicologia & Misticismo:** Tudo o que envolve a mente, o oculto e a alma.
+- 🧠 **Psicologia:** O estudo do comportamento e tudo o que envolve a mente humana.
+- 🏃‍♂️ **Esportes & Movimento:** Basquete, musculação, tênis, futebol, rugby, correr e nadar.
+- 🏎️ **Aventura & Vida ao Ar Livre:** Dirigir carros e motos, andar de barco e aproveitar a praia.
 - 📚 **Literatura:** Histórias incríveis para expandir a criatividade.
 - 🎓 **O Grande Sonho:** Me formar e conquistar meu tão sonhado diploma!
 
@@ -34,7 +36,7 @@ Na hora de criar algo novo, aplico a mesma sensibilidade e dedicação que usava
 
 ## ☕ Vamos Bater um Papo?
 
-Se você quiser falar sobre 🔮 **coisas místicas e histórias fantásticas**, mergulhar em temas de 🧠 **psicologia e comportamento**, ou até mesmo papear sobre 🎬 **cinema, arte, cultura pop e inovação**... 
+Se você quiser falar sobre 🏃‍♂️ **esportes e aventuras**, mergulhar em temas de 🧠 **psicologia e comportamento**, ou até mesmo papear sobre 🎬 **cinema, histórias fantásticas, cultura pop e inovação**... 
 
 Ou se quiser simplesmente falar sobre as coisas boas e as bênçãos da vida, **me chama! Vai ser um prazer enorme te conhecer. ✨**
 
