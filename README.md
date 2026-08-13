@@ -1,28 +1,34 @@
 # Oi, eu sou o Pedro 👋
 
+<div align="center">
+  <img src="https://github.com/pedro-norte/assets/raw/main/pedrao-profile-pic.png" alt="Pedro Henrique Tozzi Pazin" width="200" style="border-radius: 50%" />
+</div>
 
+<br/>
 
-> *"O código é apenas um reflexo da nossa vibração interior."*
+> *"Antes de entender de máquinas, eu precisei entender de pessoas."*
 
-Eu sempre achei que programar era só sobre computadores, mas a vida me ensinou que a engenharia pode ser sobre cura, resiliência e, acima de tudo, sobre pessoas.
+Eu sempre achei que programar era só sobre computadores, mas a vida me ensinou que a tecnologia pode ser sobre cura, resiliência e, acima de tudo, conexão humana.
 
-Nos últimos 10 anos, venho travando uma luta silenciosa e diária contra a depressão. A tecnologia acabou se tornando o meu refúgio. Foi madrugando na frente do monitor que encontrei um espaço seguro para organizar não só sistemas corporativos complexos, mas a minha própria mente. Nesse processo profundo de busca pela paz e pela felicidade, acabei construindo sozinho um ecossistema digital inteiro do absoluto zero.
+Nos últimos 10 anos, venho travando uma luta silenciosa e diária contra a depressão. E, por incrível que pareça, embora eu seja **novo no mundo do código em si**, a tecnologia acabou se tornando o meu refúgio. Foi madrugando na frente do monitor que encontrei um espaço seguro para acalmar e organizar a minha própria mente.
 
-## 🏛️ O Ecossistema & Impacto Profissional
+## 🎙️ Minha Verdadeira Base: 12 Anos de Rua e Comunicação
 
-Como **Engenheiro Fullstack Sênior e Arquiteto de Sistemas (Agência Keep, 2018 - Presente)**, eu viabilizo visões de negócio transformando-as em produtos digitais de alta escala. 
+Muito antes de escrever a minha primeira linha de código, eu já orquestrava sistemas complexos — mas eles eram feitos de pessoas. 
 
-Construí minha trajetória focando em quatro pilares inegociáveis:
-- **Engenharia de Software de Alta Escala:** Desenvolvimento de ponta a ponta de ecossistemas isolados corporativos, painéis customizados e módulos de automação financeira. O que roda por trás do capô? Deixe que descubram.
-- **Sistemas Autônomos & Workflows:** Modelagem e integração de motores de autonomia sistêmica e pipelines inteligentes para tomada de decisão não-supervisionada e otimização de processos críticos.
-- **Direção Criativa & High-Contrast UI:** Concepção estética focada na identidade visual Cyberpunk/Neon. Acredito em um design com alma, que conecta a experiência visual ao posicionamento de mercado.
-- **Comunicação Omnichannel & Sourcing:** Negociação B2B, gestão ágil de canais integrados e procurement tático. Acredito que a oratória e a comunicação resolveem muito mais do que qualquer ferramenta.
+Construí minha vida profissional com **12 anos de atuação incansável na Agência Keep**. Minha verdadeira escola não foi um terminal de comandos, foram os bastidores de **grandes eventos, campanhas publicitárias e promoções em escala nacional**. 
 
-## 🌿 Filosofia de Vida
+- **Comunicação Omnichannel & Soft Skills:** Passei mais de uma década negociando, convencendo e conectando pessoas. Acredito profundamente que a oratória, a empatia e a sociabilidade resolvem 90% dos problemas de qualquer projeto, muito antes da tecnologia.
+- **Direção Criativa e Visão de Negócio:** Produzir campanhas do zero me ensinou a ter um olhar estético afiado e a entender o que de fato emociona as pessoas e gera impacto no mercado.
+- **Resolução de Problemas na Pressão:** Lidar com a infraestrutura e o caos de eventos ao vivo me deu a casca grossa necessária para agir com calma e não travar diante de nenhum erro crítico.
 
-Para mim, a tecnologia tem que ser leve, acolhedora e fazer as pessoas se sentirem bem. Quando não estou no computador, estou tentando manter a energia boa, buscando inspiração nas coisas simples e lutando todos os dias pela minha maior meta: **ser genuinamente feliz**.
+## 🌿 O Código como Extensão da Vida
 
-Se você quiser bater um papo sobre criar coisas com alma, trocar ideias sobre saúde mental na área de tech, ou só falar sobre a vida... me chama. Vai ser um prazer enorme te conhecer. ✨
+Hoje, eu trago toda essa bagagem de marketing, comunicação e *soft skills* para a engenharia. Construo ecossistemas e interfaces aplicando a mesma sensibilidade que usava para criar campanhas. O que roda por trás do capô dos meus sistemas? Deixe que descubram. O que importa é a sensação genuína e a leveza que a gente entrega no final.
+
+Quando não estou estudando ou desenhando interfaces, estou tentando manter a energia boa, buscando inspiração nas coisas simples e lutando todos os dias pela minha maior meta: **ser genuinamente feliz**.
+
+Se você quiser bater um papo sobre transição de carreira, publicidade, saúde mental ou só falar sobre a vida... me chama. Vai ser um prazer enorme te conhecer. ✨
 
 ---
 
