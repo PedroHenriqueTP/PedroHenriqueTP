@@ -1,18 +1,19 @@
-# Oi, eu sou o Pedrão! ✨
+# Oi, eu sou o Pedrão!
+❤️🧡💛💚💙💜
 
 > *"Antes de entender de máquinas, eu precisei entender de pessoas."*
 
 Sou movido por tecnologia, conexão humana e pelo desejo de criar coisas incríveis. Sou imensamente grato pela minha jornada — cada passo tem sido uma história feliz e cheia de bênçãos de Deus! 🙏
 
-Minha cabeça é uma mistura eclética que me inspira todos os dias. Sou completamente apaixonado por 🎨 **Arte & Cultura Pop** (amo jogos, filmes, séries e histórias fantásticas) e fascinado por 🧠 **Psicologia & Misticismo** — tudo o que envolve a mente, o oculto e a alma. Também não vivo sem uma boa 📚 **Literatura** para expandir a criatividade. E, no meio de tudo isso, carrego um grande sonho no peito: 🎓 **me formar e conquistar meu tão sonhado diploma!**
+Minha cabeça é uma mistura eclética que me inspira todos os dias. Sou completamente apaixonado por 🎭 **Arte & Cultura Pop** (amo jogos, filmes, séries e histórias fantásticas) e fascinado por 🧠 **Psicologia & Misticismo** — tudo o que envolve a mente, o oculto e a alma. Também não vivo sem uma boa 📚 **Literatura** para expandir a criatividade. E, no meio de tudo isso, carrego um grande sonho no peito: 🎓 **me formar e conquistar meu tão sonhado diploma!**
 
 ---
 
-## 🎙️ Minha Base: 12 Anos de Rua & Agência
+## 🎨 Minha Base: 12 Anos de Rua & Agência
 
 Muito antes de escrever qualquer código, eu já orquestrava sistemas complexos feitos inteiramente de **pessoas**. Tenho **12 anos de atuação na Agência Keep**, vivendo intensamente os bastidores de eventos, campanhas publicitárias e promoções em escala nacional.
 
-- 🗣️ **O Lado Humano:** Aprendi que a oratória, a empatia e a comunicação resolvem a imensa maioria dos problemas antes mesmo de abrir qualquer tela.
+- 🤝 **O Lado Humano:** Aprendi que a oratória, a empatia e a comunicação resolvem a imensa maioria dos problemas antes mesmo de abrir qualquer tela.
 - 🎯 **Visão Criativa:** Desenvolvi um olhar estético apurado para entender o que realmente engaja e emociona as pessoas.
 - ⚡ **Resolução de Caos:** Lidar com eventos ao vivo me ensinou a ter calma, fé e visão para não travar sob pressão.
 
@@ -31,6 +32,8 @@ Na hora de criar algo novo, aplico a mesma sensibilidade e dedicação que usava
 Se você quiser falar sobre 🔮 **coisas místicas e histórias fantásticas**, mergulhar em temas de 🧠 **psicologia e comportamento**, ou até mesmo papear sobre 🎬 **cinema, arte, cultura pop e inovação**... 
 
 Ou se quiser simplesmente falar sobre as coisas boas e as bênçãos da vida, **me chama! Vai ser um prazer enorme te conhecer. ✨**
+
+**"É a Norte!" 🧭**
 
 <br>
 
