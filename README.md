@@ -1,17 +1,35 @@
 # Oi, eu sou o Pedro 👋
 
-Eu sempre achei que programar era só sobre computadores, mas a vida me ensinou que o código pode ser sobre cura, resiliência e, acima de tudo, sobre pessoas.
+<div align="center">
+  <img src="https://github.com/pedro-norte/assets/raw/main/pedrao-profile-pic.png" alt="Pedro Henrique Tozzi Pazin" width="200" style="border-radius: 50%" />
+</div>
 
-Nos últimos 10 anos, venho travando uma luta silenciosa e diária contra a depressão. A tecnologia acabou se tornando o meu refúgio e a minha tela em branco. Foi madrugando na frente do monitor, codando linha por linha, que eu encontrei um espaço seguro para organizar não só sistemas complexos, mas a minha própria mente.
+<br/>
 
-Nesse processo profundo de busca pela paz e pela felicidade, acabei construindo sozinho um ecossistema digital inteiro do absoluto zero. Criei plataformas, automatizei processos e ergui ferramentas que hoje sustentam operações inteiras. Mas a maior lição que tirei de construir tudo isso não foi técnica: foi perceber que qualquer sistema que a gente cria é, no fundo, um reflexo da nossa vibração interior.
+> *"O código é apenas um reflexo da nossa vibração interior."*
 
-Para mim, a tecnologia tem que ser leve, acolhedora e fazer as pessoas se sentirem bem. Eu não ligo para o hype ou para qual framework está na moda; eu me importo de verdade com a sensação e o impacto humano que a gente entrega no final.
+Eu sempre achei que programar era só sobre computadores, mas a vida me ensinou que a engenharia pode ser sobre cura, resiliência e, acima de tudo, sobre pessoas.
 
-Gosto muito de conversar, de entender as emoções por trás de cada projeto e de criar ambientes onde todo mundo se sinta ouvido e respeitado. Acredito firmemente que a empatia, a paciência e a vulnerabilidade resolvem muito mais coisas do que qualquer ferramenta técnica.
+Nos últimos 10 anos, venho travando uma luta silenciosa e diária contra a depressão. A tecnologia acabou se tornando o meu refúgio. Foi madrugando na frente do monitor que encontrei um espaço seguro para organizar não só sistemas corporativos complexos, mas a minha própria mente. Nesse processo profundo de busca pela paz e pela felicidade, acabei construindo sozinho um ecossistema digital inteiro do absoluto zero.
 
-Quando não estou no computador, estou tentando manter a energia boa, buscando inspiração nas coisas simples e lutando todos os dias pela minha maior meta: ser genuinamente feliz.
+## 🏛️ O Ecossistema & Impacto Profissional
 
-Se você quiser bater um papo sobre criar coisas com alma, trocar ideias sobre saúde mental no meio da tecnologia, ou só falar sobre a vida mesmo... me chama. Vai ser um prazer enorme te conhecer. ✨
+Como **Engenheiro Fullstack Sênior e Arquiteto de Sistemas (Agência Keep, 2018 - Presente)**, eu viabilizo visões de negócio transformando-as em produtos digitais de alta escala. 
 
-📍 *São Paulo / SP*
+Construí minha trajetória focando em quatro pilares inegociáveis:
+- **Engenharia de Software (SaaS Sênior):** Desenvolvimento de ponta a ponta de ecossistemas multi-tenant isolados, CRMs customizados e módulos de automação financeira.
+- **I.A. & Agentes Autônomos:** Modelagem e integração de AI Agents e workflows inteligentes para automação de processos, usando I.A. generativa para refatoração e aceleração de testes lógicos.
+- **Direção Criativa & High-Contrast UI:** Concepção estética focada na identidade visual Cyberpunk/Neon. Acredito em um design com alma, que conecta a experiência visual ao posicionamento de mercado.
+- **Comunicação Omnichannel & Sourcing:** Negociação B2B, gestão ágil de canais integrados e procurement tático. Acredito que a oratória e a comunicação resolveem muito mais do que qualquer ferramenta.
+
+## 🌿 Filosofia de Vida
+
+Para mim, a tecnologia tem que ser leve, acolhedora e fazer as pessoas se sentirem bem. Quando não estou no computador, estou tentando manter a energia boa, buscando inspiração nas coisas simples e lutando todos os dias pela minha maior meta: **ser genuinamente feliz**.
+
+Se você quiser bater um papo sobre criar coisas com alma, trocar ideias sobre saúde mental na área de tech, ou só falar sobre a vida... me chama. Vai ser um prazer enorme te conhecer. ✨
+
+---
+
+<p align="center">
+  <b>📍 São Paulo / SP - Brasil | 📩 pedrotozzipazin@gmail.com</b>
+</p>
