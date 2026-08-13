@@ -4,44 +4,33 @@
 
 Sou movido por tecnologia, conexão humana e pelo desejo de criar coisas incríveis. Sou imensamente grato pela minha jornada — cada passo tem sido uma história feliz e cheia de bênçãos de Deus! 🙏
 
-Minha bagagem é uma mistura eclética que me inspira todos os dias:
-- 🎨 **Arte & Cultura Pop:** Jogos, filmes, séries e histórias fantásticas.
-- 🧠 **Psicologia & Misticismo:** Tudo o que envolve a mente, o oculto e a alma.
-- 📚 **Literatura:** Livros que expandem a criatividade.
-- 🎓 **O Grande Sonho:** Me formar e conquistar meu diploma!
+Minha cabeça é uma mistura eclética que me inspira todos os dias. Sou completamente apaixonado por 🎨 **Arte & Cultura Pop** (amo jogos, filmes, séries e histórias fantásticas) e fascinado por 🧠 **Psicologia & Misticismo** — tudo o que envolve a mente, o oculto e a alma. Também não vivo sem uma boa 📚 **Literatura** para expandir a criatividade. E, no meio de tudo isso, carrego um grande sonho no peito: 🎓 **me formar e conquistar meu tão sonhado diploma!**
 
 ---
 
 ## 🎙️ Minha Base: 12 Anos de Rua & Agência
 
-Muito antes de codar, eu já orquestrava sistemas complexos feitos de **pessoas**. Tenho **12 anos de atuação na Agência Keep**, vivendo os bastidores de eventos, campanhas publicitárias e promoções em escala nacional.
+Muito antes de escrever qualquer código, eu já orquestrava sistemas complexos feitos inteiramente de **pessoas**. Tenho **12 anos de atuação na Agência Keep**, vivendo intensamente os bastidores de eventos, campanhas publicitárias e promoções em escala nacional.
 
-- 🗣️ **Soft Skills em Primeiro Lugar:** Oratória, empatia e comunicação resolvem 90% dos problemas de qualquer projeto.
-- 🎯 **Visão Criativa:** Olhar estético aguçado para o que realmente engaja e emociona.
-- ⚡ **Resolução de Caos:** Calma, fé e visão estratégica forjadas sob a pressão de eventos ao vivo.
+- 🗣️ **O Lado Humano:** Aprendi que a oratória, a empatia e a comunicação resolvem a imensa maioria dos problemas antes mesmo de abrir qualquer tela.
+- 🎯 **Visão Criativa:** Desenvolvi um olhar estético apurado para entender o que realmente engaja e emociona as pessoas.
+- ⚡ **Resolução de Caos:** Lidar com eventos ao vivo me ensinou a ter calma, fé e visão para não travar sob pressão.
 
 ---
 
 ## 💻 O Código como Manifestação
 
-Hoje, a tecnologia é a **ferramenta de manifestação das minhas ideias, sentimentos e sonhos**. Embora eu seja novo no mundo do código, trago toda a minha experiência humana para a engenharia:
+Hoje, a tecnologia é a **ferramenta de manifestação das minhas ideias, sentimentos e sonhos**. Embora eu seja novo nesse mundo, trago toda a minha bagagem de vida para a engenharia. 
 
-- 🏗️ **Construção com Propósito:** Aplico na programação a mesma sensibilidade que usava no marketing.
-- 🤝 **Experiência do Usuário:** O foco é sempre o acolhimento, a leveza e a facilidade no final do processo.
-- 🚀 **Trabalho Duro:** Horas de estudo e dedicação ganham um brilho especial quando feitas com acolhimento e paixão.
+Na hora de criar algo novo, aplico a mesma sensibilidade e dedicação que usava no marketing. O foco é sempre entregar uma experiência acolhedora, leve e fácil para quem está do outro lado. Horas de estudo e trabalho duro ganham um brilho especial quando são feitas com paixão.
 
 ---
 
 ## ☕ Vamos Bater um Papo?
 
-Se você quiser falar sobre:
-- 🔮 Coisas místicas e histórias fantásticas
-- 🧠 Psicologia e comportamento
-- 🎬 Cinema, literatura e cultura pop
-- 💻 Tecnologia e inovação
-- ✨ Ou simplesmente falar sobre coisas legais e as bênçãos da vida!
+Se você quiser falar sobre 🔮 **coisas místicas e histórias fantásticas**, mergulhar em temas de 🧠 **psicologia e comportamento**, ou até mesmo papear sobre 🎬 **cinema, arte, cultura pop e inovação**... 
 
-**Me chama! Vai ser um prazer enorme te conhecer. ✨**
+Ou se quiser simplesmente falar sobre as coisas boas e as bênçãos da vida, **me chama! Vai ser um prazer enorme te conhecer. ✨**
 
 <br>
 
