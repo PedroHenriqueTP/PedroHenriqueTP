@@ -1,10 +1,6 @@
 # Oi, eu sou o Pedro 👋
 
-<div align="center">
-  <img src="https://github.com/pedro-norte/assets/raw/main/pedrao-profile-pic.png" alt="Pedro Henrique Tozzi Pazin" width="200" style="border-radius: 50%" />
-</div>
 
-<br/>
 
 > *"O código é apenas um reflexo da nossa vibração interior."*
 
